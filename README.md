@@ -57,4 +57,13 @@ Color classes
 - Text(text-COL-STR)
 - Ranges between 50-900
 
+Theme Config 
+- Used for defining color palette , type scale , fonts , breakpoints
+
+Theme Structure 
+- Includes screens , colors , spacings
+- Screen - customize breakpoints 
+- Colors - customize gloval color palette
+- Spacing - customize global spacing
+
 
