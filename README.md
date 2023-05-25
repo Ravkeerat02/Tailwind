@@ -3,6 +3,7 @@ Courses
 
 ### Notes 
 
+<!-- IN MY UNDERSTANDING AS OF NOW ITS LIKE WRITING STYLE IN YOUR LANAGUEG. BUT IN A PROGRAMMING FORM -->
 TypeScript - JS with type checking , code completion , refactoring and new features - perfect for medium to large projects 
 
 Benefits 
