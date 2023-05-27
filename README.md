@@ -68,6 +68,11 @@ Theme Structure
 - Spacing - customize global spacing
 
 
+
+Code Example 
+![Code Example](https://github.com/Ravkeerat02/Tailwind/blob/master/ss/Code%20Example.png)
+
+
 Explanation
 - border: Sets a border around the box.
 - border-gray-300: Specifies the color of the border (in this case, a light gray shade).
